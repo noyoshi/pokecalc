@@ -102,4 +102,3 @@ if __name__ == '__main__':
     print('————————————————————————————————————————————————————————————————')
     print(f'Total time elapsed: {time.time() - start_time:.4f} seconds')
     print(f'Probability excluding mulligan hands: {cumulative_probability * 100 / probability_of_not_mulliganing:.4f}%')
-    print("Cleaing up stuff...")
