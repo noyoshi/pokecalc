@@ -1,0 +1,20 @@
+{
+    "basic_pokemon": {
+        "amount": 11,
+        "at_least": 1,
+        "within": 7
+    },
+    "vip": {
+        "amount": 4,
+        "at_least": 1,
+        "within": 13
+    },
+    "colress": {
+        "amount": 4,
+        "at_least": 1,
+        "within": 8
+    },
+    "generic": {
+        "amount": 41
+    }
+}
